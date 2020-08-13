@@ -1,0 +1,44 @@
+* Know almost nothing
+** Logic (especially first order logic) in general
+*** Read mathematical logic [[wiki][https://en.wikipedia.org/wiki/Mathematical_logic]]
+** Löbs theorem
+** Proof theory
+** Model theory
+** Formal Systems
+*** Definition
+** Formal Languages
+*** Definition?
+*** Grammar
+** Compiler Theory
+*** Type systems in compilers
+*** Error detection in compilers
+** Type theory 
+*** HoTT 
+*** What other type systems exist?
+** Formal verification of programs
+** Formal Methods
+** Computability Theory (aka: recursion theory)
+** Computational Complexity Theory
+** Incompleteness (Gödel Theorems etc.)
+** Category theory
+** Provability Logic
+** Proof complexity
+** Error correcting codes
+** Algorithmic complexity
+** 
+** Algorithmic Probability
+*** http://www.scholarpedia.org/article/Algorithmic_probability
+*** https://www.youtube.com/watch?v=CfjkqpzDkCs&list=PLarKqD2Ythc4en4EG-z0uJ_ROZWt3nePl&index=54
+** Algorithmic Randomness
+*** http://www.scholarpedia.org/article/Algorithmic_randomness
+** Algorithmic Information Theory (includes: Kolmogorov Complexity)
+*** http://www.scholarpedia.org/article/Kolmogorov_Complexity
+** Information Theory
+** Fixed points
+*** how are they important
+*** how are they important to AIA
+** Algebraic datatypes
+* Unterstand basics
+** Functional Programming
+* Practical understanding
+* Advanced theoretical and practical understanding
